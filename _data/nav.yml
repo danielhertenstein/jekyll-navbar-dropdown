@@ -1,8 +1,12 @@
 header:
   - title: "Home"
     url: "/"
-  - title: "Test"
-    url: "/test/"
+  - title: "Split"
+    url: "/split/"
     subpages:
       - title: "Action"
         url: "/action/"
+  - title: "Single"
+    subpages:
+      - title: "Rawr"
+        url: "/rawr/"
